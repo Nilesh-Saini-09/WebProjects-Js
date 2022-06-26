@@ -1,0 +1,10 @@
+resources
+1. Background - hero backgrounds (https://heropatterns.com/)
+
+2. Twitter Dev Tools - Web Intent (https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent)
+
+3. Quote Api - type.fit (https://type.fit/api/quotes)
+
+4. Loader - w3schools (https://www.w3schools.com/howto/howto_css_loader.asp)
+
+5. Proxy Server - 
