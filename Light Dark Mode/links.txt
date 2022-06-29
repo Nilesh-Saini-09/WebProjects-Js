@@ -1,0 +1,7 @@
+1. Hero backgrounds - https://heropatterns.com/
+2. css variables - https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+3. Dark theme blog - https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637
+4. undraw images - https://undraw.co/search
+5. toggle switch - https://www.w3schools.com/howto/howto_css_switch.asp
+6. onChange event - https://www.w3schools.com/jsref/event_onchange.asp
+7. 
