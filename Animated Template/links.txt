@@ -1,0 +1,13 @@
+1. Creative Tim - tailwind starter pack: https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation
+
+2. Html Formatter: https://htmlformatter.com/
+
+3. Unsplash: https://unsplash.com/
+
+4. Random User Images: https://randomuser.me/
+
+5. Animate on Scroll library: https://michalsnik.github.io/aos/
+
+6. How to load third party JavaScript easily: https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/
+
+7. Use of async or defer: https://web.dev/optimizing-content-efficiency-loading-third-party-javascript/#use_async_or_defer
